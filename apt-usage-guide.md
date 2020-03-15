@@ -11,3 +11,9 @@
 - `apt search`
 - `apt show`
 - `apt edit-sources`
+
+- show installed
+
+    ```bash
+    apt list --installed
+    ```
