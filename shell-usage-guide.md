@@ -5,6 +5,7 @@
     ```bash
     echo {a,b,c}file
     echo {a,b,c}{1,2,3}file
+    echo file{1..10}
     cp /path-to-some-file/file{,.bak}
     rm file{1,2,3}.txt
     mv *.{c,cpp} src/
@@ -63,3 +64,15 @@
     ```bash
     $$
     ```
+
+- delete command hot key
+
+    delete before cursor: `Ctrl+u`
+
+    delete after cursor: `Ctrl+k`
+
+- move cursor
+
+    move to front: `Ctrl+a`
+
+    move to back: `Ctrl+e`
