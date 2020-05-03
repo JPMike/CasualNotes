@@ -2,18 +2,18 @@
 
 #### install
 
-##### Ubuntu
+- Ubuntu
 
-```bash
-apt install p7zip-full
-```
+    ```bash
+    apt install p7zip-full
+    ```
 
-##### CentOS
+- CentOS
 
-```bash
-yum -y install epel-release
-yum -y install p7zip p7zip-plugins
-```
+    ```bash
+    yum -y install epel-release
+    yum -y install p7zip p7zip-plugins
+    ```
 
 #### create
 
