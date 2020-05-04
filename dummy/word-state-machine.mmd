@@ -1,0 +1,14 @@
+graph TB
+    WordState(单词状态)
+    ApostropheState(单引号在单词中状态)
+    InitState(初始状态)
+
+    WordState -->|字母| WordState
+    WordState -->|单引号| ApostropheState
+    WordState -->|"非字母，非单引号"| InitState
+
+    ApostropheState -->|字母| WordState
+    ApostropheState -->|非字母| InitState
+    
+    InitState -->|字母| WordState
+    InitState -->|"非字母，非单引号"| InitState
