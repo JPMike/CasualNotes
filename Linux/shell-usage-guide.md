@@ -76,3 +76,28 @@
     move to front: `Ctrl+a`
 
     move to back: `Ctrl+e`
+
+- list operation
+
+    ```bash
+    # define
+    a=(1 2 3 4 5)
+    echo $a
+    # get length
+    echo ${#a[@]}
+    echo ${#a[*]}
+    # read
+    echo ${a[2]}
+    echo ${a[*]}
+    # assign
+    a[1]=100
+    # delete
+    unset a[1]
+    unset a
+    # slice
+    echo ${a[*]:0:2}
+    c=(${a[*]:1:3})
+    # substitute
+    echo ${a[*]/3/100}
+    ```
+
