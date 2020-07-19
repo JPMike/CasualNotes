@@ -1,5 +1,6 @@
 ### Anime worth watching at least once
 
+- [来自风平浪静的明天](https://zh.wikipedia.org/wiki/%E6%9D%A5%E8%87%AA%E9%A3%8E%E5%B9%B3%E6%B5%AA%E9%9D%99%E7%9A%84%E6%98%8E%E5%A4%A9)
 - [昨日之歌](https://zh.wikipedia.org/zh/%E6%98%A8%E6%97%A5%E4%B9%8B%E6%AD%8C)
 - [辉夜大小姐想让我告白](https://zh.wikipedia.org/zh/%E8%BC%9D%E5%A4%9C%E5%A7%AC%E6%83%B3%E8%AE%93%E4%BA%BA%E5%91%8A%E7%99%BD%EF%BD%9E%E5%A4%A9%E6%89%8D%E5%80%91%E7%9A%84%E6%88%80%E6%84%9B%E9%A0%AD%E8%85%A6%E6%88%B0%EF%BD%9E)
 - [花开伊吕波](https://zh.wikipedia.org/wiki/%E8%8A%B1%E9%96%8B%E7%89%A9%E8%AA%9E)
